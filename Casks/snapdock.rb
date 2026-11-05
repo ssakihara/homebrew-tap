@@ -1,6 +1,6 @@
 cask "snapdock" do
-  version "0.3.0"
-  sha256 "8a2e803c37d7562032a04df5c581b86cf34b1deaa8e2e093e605ea8d015da39e"
+  version "0.4.0"
+  sha256 "59fa31e9d8db590a33c5d803a03340832821a9ab70bbb82e352998602ef4ba96"
 
   url "https://github.com/ssakihara/snapdock/releases/download/v#{version}/SnapDock-#{version}.dmg"
   name "SnapDock"
